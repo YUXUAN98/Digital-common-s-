@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="27px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip5029">
+      <path d="M 4 18.009570352270416  L 4 5.6253308898391365  L 1 5.6253308898391365  L 1 18.009570352270416  L 4 18.009570352270416  Z M 4.037050968591311 3.5100285074322946  L 4.037050968591311 0.9904296477295866  L 0.9629490314086891 0.9904296477295866  L 0.9629490314086891 3.5100285074322946  L 4.037050968591311 3.5100285074322946  Z M 5 4.63490124210955  L 5 19  L 0 19  L 0 4.63490124210955  L 5 4.63490124210955  Z M 5 0  L 5 4.500458155161882  L 0 4.500458155161882  L 0 0  L 5 0  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1599 -426 )">
+    <path d="M 4 18.009570352270416  L 4 5.6253308898391365  L 1 5.6253308898391365  L 1 18.009570352270416  L 4 18.009570352270416  Z M 4.037050968591311 3.5100285074322946  L 4.037050968591311 0.9904296477295866  L 0.9629490314086891 0.9904296477295866  L 0.9629490314086891 3.5100285074322946  L 4.037050968591311 3.5100285074322946  Z M 5 4.63490124210955  L 5 19  L 0 19  L 0 4.63490124210955  L 5 4.63490124210955  Z M 5 0  L 5 4.500458155161882  L 0 4.500458155161882  L 0 0  L 5 0  Z " fill-rule="nonzero" fill="rgba(190, 190, 190, 0.058823529411764705)" stroke="none" transform="matrix(1 0 0 1 1603 426 )" class="fill" />
+    <path d="M 4 18.009570352270416  L 4 5.6253308898391365  L 1 5.6253308898391365  L 1 18.009570352270416  L 4 18.009570352270416  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 1603 426 )" class="stroke" mask="url(#Clip5029)" />
+    <path d="M 4.037050968591311 3.5100285074322946  L 4.037050968591311 0.9904296477295866  L 0.9629490314086891 0.9904296477295866  L 0.9629490314086891 3.5100285074322946  L 4.037050968591311 3.5100285074322946  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 1603 426 )" class="stroke" mask="url(#Clip5029)" />
+    <path d="M 5 4.63490124210955  L 5 19  L 0 19  L 0 4.63490124210955  L 5 4.63490124210955  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 1603 426 )" class="stroke" mask="url(#Clip5029)" />
+    <path d="M 5 0  L 5 4.500458155161882  L 0 4.500458155161882  L 0 0  L 5 0  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 1603 426 )" class="stroke" mask="url(#Clip5029)" />
+  </g>
+  <style>svg { filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.12941176470588237)); }</style>
+</svg>

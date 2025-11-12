@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="56px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip4644">
+      <path d="M 31.000518529815466 47  L 31.000518529815466 39  L 10 39  L 10 27  L 27.866402318133293 27  L 27.866402318133293 20  L 10 20  L 10 9  L 31.000518529815466 9  L 31.000518529815466 1  L 1 1  L 1 47  L 31.000518529815466 47  Z M 32 0  L 32 10  L 10.89083422296782 10  L 10.89083422296782 19  L 28.865883788317827 19  L 28.865883788317827 28  L 10.89083422296782 28  L 10.89083422296782 38  L 32 38  L 32 48  L 0 48  L 0 0  L 32 0  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -281 -311 )">
+    <path d="M 31.000518529815466 47  L 31.000518529815466 39  L 10 39  L 10 27  L 27.866402318133293 27  L 27.866402318133293 20  L 10 20  L 10 9  L 31.000518529815466 9  L 31.000518529815466 1  L 1 1  L 1 47  L 31.000518529815466 47  Z M 32 0  L 32 10  L 10.89083422296782 10  L 10.89083422296782 19  L 28.865883788317827 19  L 28.865883788317827 28  L 10.89083422296782 28  L 10.89083422296782 38  L 32 38  L 32 48  L 0 48  L 0 0  L 32 0  Z " fill-rule="nonzero" fill="rgba(127, 140, 159, 0.058823529411764705)" stroke="none" transform="matrix(1 0 0 1 285 311 )" class="fill" />
+    <path d="M 31.000518529815466 47  L 31.000518529815466 39  L 10 39  L 10 27  L 27.866402318133293 27  L 27.866402318133293 20  L 10 20  L 10 9  L 31.000518529815466 9  L 31.000518529815466 1  L 1 1  L 1 47  L 31.000518529815466 47  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 285 311 )" class="stroke" mask="url(#Clip4644)" />
+    <path d="M 32 0  L 32 10  L 10.89083422296782 10  L 10.89083422296782 19  L 28.865883788317827 19  L 28.865883788317827 28  L 10.89083422296782 28  L 10.89083422296782 38  L 32 38  L 32 48  L 0 48  L 0 0  L 32 0  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 285 311 )" class="stroke" mask="url(#Clip4644)" />
+  </g>
+  <style>svg { filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.12941176470588237)); }</style>
+</svg>

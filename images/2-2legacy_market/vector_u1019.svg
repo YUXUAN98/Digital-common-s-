@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="19px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip4811">
+      <path d="M 9.355189351444771 8.860890127063  L 9.355189351444771 6.239452590708304  L 18.44809132530851 6.239452590708304  L 18.44809132530851 8.860890127063  L 9.355189351444771 8.860890127063  Z M 0 19  L 0 16  L 20 16  L 20 19  L 0 19  Z M 8 17.83010281533139  L 8 0  L 10.688517631363512 0  L 10.688517631363512 17.83010281533139  L 8 17.83010281533139  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -410 -72 )">
+    <path d="M 9.355189351444771 8.860890127063  L 9.355189351444771 6.239452590708304  L 18.44809132530851 6.239452590708304  L 18.44809132530851 8.860890127063  L 9.355189351444771 8.860890127063  Z M 0 19  L 0 16  L 20 16  L 20 19  L 0 19  Z M 8 17.83010281533139  L 8 0  L 10.688517631363512 0  L 10.688517631363512 17.83010281533139  L 8 17.83010281533139  Z " fill-rule="nonzero" fill="rgba(108, 111, 142, 1)" stroke="none" transform="matrix(1 0 0 1 410 72 )" class="fill" />
+    <path d="M 9.355189351444771 8.860890127063  L 9.355189351444771 6.239452590708304  L 18.44809132530851 6.239452590708304  L 18.44809132530851 8.860890127063  L 9.355189351444771 8.860890127063  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 410 72 )" class="stroke" mask="url(#Clip4811)" />
+    <path d="M 0 19  L 0 16  L 20 16  L 20 19  L 0 19  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 410 72 )" class="stroke" mask="url(#Clip4811)" />
+    <path d="M 8 17.83010281533139  L 8 0  L 10.688517631363512 0  L 10.688517631363512 17.83010281533139  L 8 17.83010281533139  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 410 72 )" class="stroke" mask="url(#Clip4811)" />
+  </g>
+</svg>

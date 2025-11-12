@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="824px" height="49px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB" id="Filter5035">
+      <feOffset dx="0" dy="4" in="SourceGraphic" result="offset" id="offset" />
+      <feMorphology radius="0" operator="erode" in="offset" result="morphology" id="morphology" />
+      <feGaussianBlur stdDeviation="2" in="morphology" result="blur" id="blur" />
+      <feComposite in2="blur" operator="out" in="SourceGraphic" result="inverse" id="inverse" />
+      <feFlood flood-color="rgba(0, 0, 0, 0.25098039215686274)" in="inverse" result="color" id="color" />
+      <feComposite in2="inverse" operator="in" in="color" result="shadow" id="shadow" />
+      <feComposite in2="SourceGraphic" operator="over" in="shadow" />
+    </filter>
+    <mask fill="white" id="Clip5036">
+      <path d="M 24.4999942779541 49  C 10.96901798248291 49  0 38.030975341796875  0 24.5  C 0 10.969023704528809  10.969023704528809 0  24.5 0  C 24.5 0  799.5 0  799.5 0  C 813.031005859375 0  824 10.969023704528809  824 24.5  C 824 38.030975341796875  813.031005859375 49  799.5 49  C 799.5 49  24.4999942779541 49  24.4999942779541 49  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -398 -980 )">
+    <path d="M 24.4999942779541 49  C 10.96901798248291 49  0 38.030975341796875  0 24.5  C 0 10.969023704528809  10.969023704528809 0  24.5 0  C 24.5 0  799.5 0  799.5 0  C 813.031005859375 0  824 10.969023704528809  824 24.5  C 824 38.030975341796875  813.031005859375 49  799.5 49  C 799.5 49  24.4999942779541 49  24.4999942779541 49  Z " fill-rule="nonzero" fill="rgba(217, 217, 217, 1)" stroke="none" transform="matrix(1 0 0 1 398 980 )" class="fill" />
+    <path d="M 24.4999942779541 49  C 10.96901798248291 49  0 38.030975341796875  0 24.5  C 0 10.969023704528809  10.969023704528809 0  24.5 0  C 24.5 0  799.5 0  799.5 0  C 813.031005859375 0  824 10.969023704528809  824 24.5  C 824 38.030975341796875  813.031005859375 49  799.5 49  C 799.5 49  24.4999942779541 49  24.4999942779541 49  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 398 980 )" class="stroke" mask="url(#Clip5036)" />
+  </g>
+  <style>path.fill { filter: url('#Filter5035'); }</style>
+</svg>
