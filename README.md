@@ -17,7 +17,7 @@ As required, this file details our creative process and interaction with Generat
 
 For the most direct way to see our intended design and user experience, please view our Figma prototype:
 
-**[Click here to view our Figma Design]([https://www.figma.com/proto/M7iZ4gygC1vGBcUdCi2Tfv/Digital-common-s-?page-id=0%3A1&node-id=13-2&starting-point-node-id=13%3A2&t=WsV5EAdJwEfR2jeq-1](https://www.figma.com/proto/7p3RiulKeoLkVJOCB1cp7u/digital-commons?page-id=0%3A1&node-id=1-2&p=f&viewport=-31%2C318%2C0.2&t=pE1aiXMhnyn9DbC7-1&scaling=contain&content-scaling=fixed))**
+**[Click here to view our Figma Design](https://www.figma.com/proto/7p3RiulKeoLkVJOCB1cp7u/digital-commons?page-id=0%3A1&node-id=1-2&p=f&viewport=-31%2C318%2C0.2&t=pE1aiXMhnyn9DbC7-1&scaling=contain&content-scaling=fixed)**
 
 ---
 
