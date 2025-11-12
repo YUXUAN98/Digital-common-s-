@@ -16,7 +16,7 @@ You can view our live landing page here:
 
 As required, this file details our creative process and interaction with Generative AI during development.
 
-**[Click here to read the chat.md file](chat.md)**
+**[Click here to read the chat.md file](https://github.com/YUXUAN98/Digital-common-s-/blob/main/chat_ai_interaction.md)**
 
 ---
 
