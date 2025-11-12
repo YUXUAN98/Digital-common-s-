@@ -4,11 +4,20 @@ Welcome to our submission for the JUMPSTARTER ZPIRE Program Vibe Coding Challeng
 
 ---
 
-## 🎨 Figma Design Preview (Direct Visuals)
+## 🤖 Chat.md File
+
+As required, this file details our creative process and interaction with Generative AI during development.
+
+**[Click here to read the chat.md file](https://github.com/YUXUAN98/Digital-common-s-/blob/main/chat_ai_interaction.md)**
+
+
+---
+
+## 🎨 Hosted Landing Page
 
 For the most direct way to see our intended design and user experience, please view our Figma prototype:
 
-**[Click here to view our Figma Design](https://www.figma.com/proto/M7iZ4gygC1vGBcUdCi2Tfv/Digital-common-s-?page-id=0%3A1&node-id=13-2&starting-point-node-id=13%3A2&t=WsV5EAdJwEfR2jeq-1)**
+**[Click here to view our Figma Design]([https://www.figma.com/proto/M7iZ4gygC1vGBcUdCi2Tfv/Digital-common-s-?page-id=0%3A1&node-id=13-2&starting-point-node-id=13%3A2&t=WsV5EAdJwEfR2jeq-1](https://www.figma.com/proto/7p3RiulKeoLkVJOCB1cp7u/digital-commons?page-id=0%3A1&node-id=1-2&p=f&viewport=-31%2C318%2C0.2&t=pE1aiXMhnyn9DbC7-1&scaling=contain&content-scaling=fixed))**
 
 ---
 
@@ -21,13 +30,6 @@ This repository hosts all required project files (HTML, CSS, JS).
 **[Click here to browse the project files](https://github.com/YUXUAN98/Digital-common-s-/tree/main/Hosted%20Landing%20Page)**
 
 
----
-
-## 🤖 AI Interaction (chat.md)
-
-As required, this file details our creative process and interaction with Generative AI during development.
-
-**[Click here to read the chat.md file](https://github.com/YUXUAN98/Digital-common-s-/blob/main/chat_ai_interaction.md)**
 
 ---
 
