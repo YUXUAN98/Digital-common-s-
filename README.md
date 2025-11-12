@@ -4,11 +4,22 @@ Welcome to our submission for the JUMPSTARTER ZPIRE Program Vibe Coding Challeng
 
 ---
 
-## 🚀 Live Demo (Hosted Landing Page)
+## 🎨 Figma Design Preview (Direct Visuals)
 
-You can view our live landing page here:
+For the most direct way to see our intended design and user experience, please view our Figma prototype:
 
-**[Click here to view our Live Demo](https://[your-hosting-link-here.com])**
+**[Click here to view our Figma Design](https://www.figma.com/proto/M7iZ4gygC1vGBcUdCi2Tfv/Digital-common-s-?page-id=0%3A1&node-id=13-2&starting-point-node-id=13%3A2&t=WsV5EAdJwEfR2jeq-1)**
+
+---
+
+## 📂 Project Files (Download to View)
+
+This repository hosts all required project files (HTML, CSS, JS). 
+
+**To view the functional page, please download the repository (or browse the files below) and open the `index.html` file in your local browser.**
+
+**[Click here to browse the project files](https://github.com/YUXUAN98/Digital-common-s-/tree/main/Hosted%20Landing%20Page)**
+
 
 ---
 
