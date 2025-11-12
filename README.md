@@ -1,5 +1,3 @@
-# Digital-common-s-
-JUMPSTARTER ZPIRE Program - Vibe Coding Challenge Submission. Project: Digital common(s).  A front-end landing page showcasing our wellness solution.
 # [Digital common(s)] - JUMPSTARTER ZPIRE Vibe Coding Challenge
 
 Welcome to our submission for the JUMPSTARTER ZPIRE Program Vibe Coding Challenge. This repository contains the front-end landing page for our wellness solution concept.
