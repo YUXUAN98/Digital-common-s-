@@ -18,6 +18,8 @@ As required, this file details our creative process and interaction with Generat
 For the most direct way to see our intended design and user experience, please view our Figma prototype:
 
 **[Click here to view our Web Version Figma Design](https://www.figma.com/proto/7p3RiulKeoLkVJOCB1cp7u/digital-commons?page-id=0%3A1&node-id=1-2&p=f&viewport=-31%2C318%2C0.2&t=pE1aiXMhnyn9DbC7-1&scaling=contain&content-scaling=fixed)**
+
+
 **[Click here to view our Elderly-friendly Mobile Version Figma Design](https://www.figma.com/proto/M7iZ4gygC1vGBcUdCi2Tfv/Digital-common-s-?page-id=110%3A2&node-id=114-208&p=f&viewport=-281%2C169%2C0.12&t=jazde1RWjg2whoio-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=114%3A208)**
 
 ---
