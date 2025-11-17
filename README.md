@@ -1,12 +1,12 @@
-# [Digital common(s)] - JUMPSTARTER ZPIRE Vibe Coding Challenge
+# [Digital common(s)]
 
-Welcome to our submission for the JUMPSTARTER ZPIRE Program Vibe Coding Challenge. This repository contains the front-end landing page for our wellness solution concept.
+Welcome everyone to check out our project! This repository contains the front-end landing page for our concept, showcasing the design, interaction, and overall user experience we have developed. We invite you to explore and see the ideas we have implemented.
 
 ---
 
 ## 🤖 Chat.md File
 
-As required, this file details our creative process and interaction with Generative AI during development.
+This section details our design process, including how we approached problem-solving, iterated on ideas, and incorporated feedback. We also experimented with various tools and technologies to enhance the user experience.
 
 **[Click here to read the chat.md file](https://github.com/YUXUAN98/Digital-common-s-/blob/main/chat_ai_interaction.md)**
 
@@ -15,7 +15,13 @@ As required, this file details our creative process and interaction with Generat
 
 ## 🎨 Hosted Landing Page
 
-For the most direct way to see our intended design and user experience, please view our Figma prototype:
+For the most direct way to experience our design, we have prepared interactive prototypes for different platforms:
+
+Web Version: Explore the layout, navigation, and key interface elements.
+
+Mobile Version: See a mobile-friendly adaptation designed for accessibility and ease of use.
+
+We encourage you to view both prototypes to understand how the interface adapts across devices.
 
 **[Click here to view our Web Version Figma Design](https://www.figma.com/proto/7p3RiulKeoLkVJOCB1cp7u/digital-commons?page-id=0%3A1&node-id=1-2&p=f&viewport=-31%2C318%2C0.2&t=pE1aiXMhnyn9DbC7-1&scaling=contain&content-scaling=fixed)**
 
@@ -26,9 +32,10 @@ For the most direct way to see our intended design and user experience, please v
 
 ## 📂 Project Files (Download to View)
 
-This repository hosts all required project files (HTML, CSS, JS). 
+All the necessary project files, including HTML, CSS, and JavaScript, are included in this repository. You can download the files to run the project locally or browse the structure to see how the solution is built.
 
-**To view the functional page, please download the repository (or browse the files below) and open the `index.html` file in your local browser.**
+To view the functional page, download the repository and open the index.html file in your browser.
+
 
 **[Click here to browse the project files](https://github.com/YUXUAN98/Digital-common-s-/tree/main/Hosted%20Landing%20Page)**
 
