@@ -23,15 +23,15 @@ Below are selected prompts and summaries of their outcomes:
 
 6. **Prompt:** *"Do you have any good ideas or suggestions for making the mobile app more age-friendly?"*  
    **AI Response:** The large model helped me summarize ten suggestions： 1.	Use large, legible fonts (minimum 16-18 points) for readability.
-2.	Apply high-contrast color schemes (e.g., dark text on light background).
-3.	Design large touch targets (at least 44x44 pixels) with ample spacing.
-4.	Keep the interface simple, clean, and uncluttered.
-5.	Use clear and familiar icons and straightforward labels.
-6.	Provide simple, intuitive navigation with minimal layers.
-7.	Include adjustable settings for font size and color customization.
-8.	Support voice commands and speech recognition for ease of use.
-9.	Offer tutorials or help sections for onboarding and guidance.
-10.	Test usability with real elderly users and iterate based on feedback.
+                                                                          2.	Apply high-contrast color schemes (e.g., dark text on light background).
+                                                                          3.	Design large touch targets (at least 44x44 pixels) with ample spacing.
+                                                                          4.	Keep the interface simple, clean, and uncluttered.
+                                                                          5.	Use clear and familiar icons and straightforward labels.
+                                                                          6.	Provide simple, intuitive navigation with minimal layers.
+                                                                          7.	Include adjustable settings for font size and color customization.
+                                                                          8.	Support voice commands and speech recognition for ease of use.
+                                                                          9.	Offer tutorials or help sections for onboarding and guidance.
+                                                                          10.	Test usability with real elderly users and iterate based on feedback.
 
 ## Project Evolution
 Throughout development, AI guidance played an important role in shaping the project’s creative and technical outcomes. Its feedback accelerated the prototyping process, especially in refining layout consistency and content tone. By iteratively incorporating AI suggestions, the final design achieved a better balance between aesthetics and usability. The interaction also deepened my understanding of prompt engineering, allowing me to engage in more targeted and productive dialogue with the AI across different design and coding contexts.
