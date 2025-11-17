@@ -19,7 +19,7 @@ For the most direct way to experience our design, we have prepared interactive p
 
 Web Version: Explore the layout, navigation, and key interface elements.
 
-Mobile Version: See a mobile-friendly adaptation designed for accessibility and ease of use.
+Mobile Version: Explore an elderly-friendly mobile adaptation designed for accessibility, readability, and ease of use.
 
 We encourage you to view both prototypes to understand how the interface adapts across devices.
 
